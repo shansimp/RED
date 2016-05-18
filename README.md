@@ -6,17 +6,17 @@ sudo cp /etc/network/interfaces /etc/network/interfaces.orig 
             (this makes a backup copy of your interfaces file)
 sudo nano /etc/network/interfaces
 
------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------
 FILE = interfaces file
------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------
 sudo cp /etc/wpa_supplicant/wpa_supplicant.conf /etc/wpa_supplicant/wpa_supplicant.conf.orig 
             (this makes a backup copy of your wpa_supplicant file)
 
 sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 
------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
 FILE = wpa_suplpicant.conf
------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
 
 sudo reboot
 
